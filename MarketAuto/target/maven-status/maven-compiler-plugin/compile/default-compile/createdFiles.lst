@@ -1,0 +1,10 @@
+config\HibernateConfig.class
+marketAuto\controller\PageController.class
+daoimpl\CategoryDAOImpl.class
+daoimpl\ProductDAOImpl.class
+dto\Product.class
+dao\CategoryDAO.class
+marketAuto\controller\Main.class
+dto\Category.class
+marketAuto\controller\JsonDataController.class
+dao\ProductDAO.class
